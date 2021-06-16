@@ -36,18 +36,11 @@ To run the python code please install Jupyter Notebook software and load .ipynb 
 - Sklean - To apply reggression
 
 ### EDA In Tableau
-<p>
+<p align="center">
     <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture1.png" alt>
     <center><em>Tree Map</em></center>
 </p>
 
-<figure>
-    <img src='https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture1.png' alt='missing' />
-    <figcaption style="align: left; text-align:center;">Tree Map</figcaption>
-</figure>
 
-.caption {
-    text-align: center;
-}
 ### Regression Analysis in Python
 
