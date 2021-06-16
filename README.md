@@ -1,8 +1,13 @@
 # Punjab Crime Visual Analysis
-This repository has been created to showcase Information Visualization Project about Analysing Punjab Crime Statistics.
+This repository has been created to showcase Information Visualization Project about Analysing Punjab Crime Statistics.We analyse the crimes reported in Punjab Province in the year 2002 to 2015. An in-depth exploratory data analysis was carried out in Tableau. Various crime trends were found in the data on yearly basis and on the basis of each division in Punjab province. The analysis was done keeping various data visualization principles in view. To make the analysis more impactful, we projected the crimes in Punjab province for the next two years using regression.
 
 ### Dataset
+The dataset has been taken from the following source. 
 <a href="http://bos.gop.pk/developmentstat">Punjab Development Statistics</a>
+
+### Repository Files
+Project.twb - Tableau Dashboard File
+Regression.ipynb - Jupyter Notebook for Regression Analysis
 
 
 ### Project by 
