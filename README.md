@@ -46,5 +46,8 @@ To run the python code please install Jupyter Notebook software and load .ipynb 
     <figcaption>Tree Map</figcaption>
 </figure>
 
+.caption {
+    text-align: center;
+}
 ### Regression Analysis in Python
 
