@@ -38,7 +38,7 @@ To run the python code please install Jupyter Notebook software and load .ipynb 
 ### EDA In Tableau
 <p>
     <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture1.png" alt>
-    <em>Tree Map</em>
+    <center><em>Tree Map</em></center>
 </p>
 
 ### Regression Analysis in Python
