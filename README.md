@@ -25,7 +25,9 @@ The dataset has been taken from the following source.
 ### Running Instructions
 
 The project consists of two parts.
-1. EDA and Dashboard in tableau
-2. Regression Analysis in Python
+1. EDA and Dashboard in Tableau
+2. Regression Analysis in Python Jupyter Notebook
 
-To run the Tableau Dashboard download the .twb file and import to Tableau.
+To run the Tableau Dashboard download the .twb file and import to Tableau. Please note this dashboard has been created in Licensed Tableau Desktop. Therefore, it might not be compatible with Tableau public. Screen Shots have also been given for Tableau visualizations. 
+
+To run the python code please install 
