@@ -52,7 +52,44 @@ To run the python code please install Jupyter Notebook software and load .ipynb 
     <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture3.png" alt>
 </p>
 
+#### Crime Statistics by Year Bar Chart
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture4.png" alt>
+</p>
+
+#### Crime Types Yearly Trends Line Subplots
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture5.png" alt>
+</p>
+
+#### Division-wise Crime Trends (2012-2015) Line Subplots
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture6.png" alt>
+</p>
+
+#### Line Plots of Crimes Reported Division-wise
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture7.png" alt>
+</p>
 
 
 ### Regression Analysis in Python
+#### Overall Crime Reported
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture8.png" alt>
+</p>
 
+#### Linear Regression
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture9.png" alt>
+</p>
+
+#### Polynomial Regression - Degree 2
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture10.png" alt>
+</p>
+
+#### Polynomial Regression - Degree 3
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture11.png" alt>
+</p>
