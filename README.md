@@ -40,6 +40,15 @@ To run the python code please install Jupyter Notebook software and load .ipynb 
 <p>
     <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture1.png" alt>
 </p>
+#### Division-wise Crime Type Bar Chart
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture2.png" alt>
+</p>
+#### Crime Type Heat Map
+<p>
+    <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture3.png" alt>
+</p>
+
 
 
 ### Regression Analysis in Python
