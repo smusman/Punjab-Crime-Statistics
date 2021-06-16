@@ -3,11 +3,12 @@ This repository has been created to showcase Information Visualization Project a
 
 ### Project by 
 
-- Syed Muhammad Usman
-- Zain Aftab
-- Hussnain Ahmed Saqib
-- Shayan Haider
-- Syed Muhammad Abbas Rizvi
+- Zain Aftab 		               (330124)
+- Hussnain Ahmed Saqib 	       (327473)
+- Syed Muhammad Usman          (330654)
+- Shayan Haider 		           (330810)
+- Syed Muhammad Abbas Rizvi    (328675)
+
 
 ### Running Instructions
 
