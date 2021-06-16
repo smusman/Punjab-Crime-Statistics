@@ -41,5 +41,10 @@ To run the python code please install Jupyter Notebook software and load .ipynb 
     <center><em>Tree Map</em></center>
 </p>
 
+<figure>
+    <img src='https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture1.png' alt='missing' />
+    <figcaption>Tree Map</figcaption>
+</figure>
+
 ### Regression Analysis in Python
 
