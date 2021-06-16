@@ -36,9 +36,9 @@ To run the python code please install Jupyter Notebook software and load .ipynb 
 - Sklean - To apply reggression
 
 ### EDA In Tableau
-<p align="center">
+<p>
     <img src="https://github.com/smusman/Punjab-Crime-Visual-Analysis/blob/main/images/Picture1.png" alt>
-    <center><em>Tree Map</em></center>
+    <em align="center">Tree Map</em>
 </p>
 
 
