@@ -1,4 +1,4 @@
-# Punjab-Crime-Statistics
+# Punjab Crime Visual Analysis
 This repository has been created to showcase Information Visualization Project about Analysing Punjab Crime Statistics.
 
 ### Project by 
