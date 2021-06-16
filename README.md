@@ -30,4 +30,12 @@ The project consists of two parts.
 
 To run the Tableau Dashboard download the .twb file and import to Tableau. Please note this dashboard has been created in Licensed Tableau Desktop. Therefore, it might not be compatible with Tableau public. Screen Shots have also been given for Tableau visualizations. 
 
-To run the python code please install 
+To run the python code please install Jupyter Notebook software and load .ipynb file provided in the repository. The python pacakges used for visulization and data handling are as follows.
+- Pandas and Numpy - To handle and anlyse the data
+- Matplotlib - To visualize data
+- Sklean - To apply reggression
+
+### EDA In Tableau
+
+
+### 
