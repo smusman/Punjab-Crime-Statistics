@@ -33,7 +33,7 @@ To run the Tableau Dashboard download the .twb file and import to Tableau. Pleas
 To run the python code please install Jupyter Notebook software and load .ipynb file provided in the repository. The python pacakges used for visulization and data handling are as follows.
 - Pandas and Numpy - To handle and anlyse the data
 - Matplotlib - To visualize data
-- Sklean - To apply reggression
+- Sklearn - To apply reggression
 
 ### EDA In Tableau
 
